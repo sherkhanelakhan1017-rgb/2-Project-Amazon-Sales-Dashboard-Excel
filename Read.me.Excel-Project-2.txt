@@ -1,0 +1,54 @@
+# Amazon Sales & Profit Dashboard (2023–2024)
+
+## 📊 Project Overview
+This project presents an interactive Excel dashboard analyzing Amazon sales and profit performance for 2023 and 2024.
+
+The dashboard provides insights into:
+- Sales performance by city and state
+- Monthly sales trends
+- Product-wise unit sales
+- Regional sales distribution
+- KPI tracking and profit analysis
+
+---
+
+## 🛠 Tools & Features Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Slicers
+- Map Charts
+- Doughnut Charts
+- Business Reporting
+
+---
+
+## 📈 Key Insights
+- West region contributed the highest overall sales.
+- Nestle Smarties Pop-Up recorded the highest units sold.
+- 2024 sales outperformed 2023 during peak months.
+- Significant revenue growth observed in Nov–Dec.
+- Delhi emerged as the top-performing city by sales.
+
+---
+
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+## 📂 Files Included
+- Amazon_Sales_Dashboard.xlsx
+- dashboard_preview.png
+
+---
+
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- Interactive Reporting
+- KPI Monitoring
